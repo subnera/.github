@@ -6,6 +6,7 @@ Fleet management for IOTA Train at Home miners: real queue position, live traini
 stats and one dashboard for all your Macs.
 
 - Download and guides: [subnera.com](https://subnera.com)
+- Homebrew: `brew install --cask subnera/tap/subnera`
 - Report a bug or request a feature: [subnera/feedback](https://github.com/subnera/feedback/issues/new/choose)
 - Community: [Discord](https://discord.gg/NsHBXEPwcb)
 - News: [@subnera on X](https://x.com/subnera)
